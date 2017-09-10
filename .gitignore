@@ -1,0 +1,10 @@
+# CMake turds
+CMakeCache.txt
+Makefile
+*.cmake
+CMakeFiles
+
+
+# Build outputs
+*.a
+hello-cmake
